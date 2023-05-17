@@ -49,7 +49,7 @@ light:
 
 projects:
   sort_by: stars # pushed | stars
-  limit: 12
+  limit: 20
   exclude:
     archived: true
     forks: false
@@ -57,16 +57,20 @@ projects:
     # - repo-name
 
 social_media:
-  # instagram: your_username
-  # linkedin: your_username
+  instagram: nirbhay_bagmar
+  linkedin: nirbhaybagmar
   # medium: your_username
   # stackoverflow: 6250733 # Set but decided not to use
   # twitter: your_username
-  # website: http://your_website_url
+  website: http://nirbhaybagmar.github.io
   # youtube: your_username
 
 # source means original, i.e. not forked.
 topics:
+  - name: Go
+    web_url: https://github.com/MichaelCurrin?tab=repositories&q=&type=source&language=go&sort=
+    image_url: https://raw.githubusercontent.com/github/explore/master/topics/go/go.png
+    
   - name: Python
     web_url: https://github.com/MichaelCurrin?tab=repositories&q=&type=source&language=python&sort=
     image_url: https://raw.githubusercontent.com/github/explore/master/topics/python/python.png
@@ -82,11 +86,3 @@ topics:
   - name: Bash / Shell
     web_url: https://github.com/MichaelCurrin?tab=repositories&q=&type=source&language=shell&sort=
     image_url: https://raw.githubusercontent.com/github/explore/master/topics/bash/bash.png
-
-  - name: Jekyll
-    web_url: https://michael-currin.netlify.app/topics/#topic-jekyll
-    image_url: https://raw.githubusercontent.com/github/explore/master/topics/jekyll/jekyll.png
-
-  - name: Go
-    web_url: https://github.com/MichaelCurrin?tab=repositories&q=&type=source&language=go&sort=
-    image_url: https://raw.githubusercontent.com/github/explore/master/topics/go/go.png
