@@ -1,4 +1,4 @@
-# Michael Currin's website
+# Nirbhay Bagmar's website
 > Personal website dev portfolio
 
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/MichaelCurrin.github.io?include_prereleases=&sort=semver)](https://github.com/MichaelCurrin/MichaelCurrin.github.io/releases/)
