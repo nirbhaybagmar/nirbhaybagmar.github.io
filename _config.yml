@@ -1,10 +1,10 @@
 ### Site metadata
 
-repository: MichaelCurrin/MichaelCurrin.github.io
+repository: nirbhaybagmar/nirbhaybagmar.github.io
 
 ### Build settings ###
 
-url: https://michaelcurrin.github.io
+url: https://nirbhaybagmar.github.io
 baseurl: ""
 
 permalink: pretty
